@@ -1,12 +1,12 @@
-<div align="center">
-  <h1>Xpeay</h1>
+# Xpeay
+<p>4chan-like imageboard in php</p>
 
-<br/>
+<br>
 
-<br/>
-</div>
+____
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
 
-
-## Comment
-2년전에 만든 4chan-like웹
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
