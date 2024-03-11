@@ -1,11 +1,11 @@
-+---------------+
-| Xpeays / php  |
-+---------------+
+<div align="center">
 
-        Php forum source programmed by a real noob
+# Xpeay
+</div>
+<br/>
+<br/>
+<br/>
+---
 
-        Xpeays was written by HyunSeok Kim
-        
-        You must edit (s/Class/DB.php, s/com.php) this file and put your own config
-
-        
+## Comment
+2년전에 만든 4chan-like웹
